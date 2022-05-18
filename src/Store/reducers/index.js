@@ -1,0 +1,10 @@
+import { combineReducers } from 'redux';
+import auth from './auth';
+
+//import loading from './loading';
+const initialState = {};
+export default combineReducers({
+  auth
+});
+
+

@@ -1,0 +1,22 @@
+body {
+  padding: 0 !important;
+}
+
+.userprofile-area {
+  width: 224px;
+  position: absolute;
+  inset: -30px -30px auto auto;
+  margin: 0px;
+  transform: translate3d(-20.8px, 71.2px, 0px);
+}
+
+
+/* .notification-area {
+  @apply md:w-[350px] md:absolute md:top-[-40px] md:left-[-90px] m-0 transform: translate3d(-77.6px, 64px, 0px); 
+  width: 350px;
+  position:absolute;
+  inset: -40px -90px auto auto;
+  margin: 0px;
+  transform: translate3d(-77.6px, 64px, 0px);
+} */
+
